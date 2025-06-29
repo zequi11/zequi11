@@ -1,28 +1,32 @@
-# 👋 Olá! Eu sou o Ezequiel Eduardo
+# 👋 Olá, eu sou o Ezequiel Eduardo
 
-🎓 Este perfil é o espaço onde organizo meus principais projetos desenvolvidos com fins educacionais e registro meu progresso como programador.
+🎓 Técnico em informática e desenvolvedor em formação
 
 ---
 
 ## ✨ Sobre mim
 
-- 📘 Desenvolvendo minhas habilidades com lógica de programação, C#, HTML, CSS, JS, Bootstrap...
-- 🎯 Meu foco atual é aprender, praticar e evoluir com consistência.
-- 📂 Estou usando o GitHub para criar um histórico real da minha evolução na área de tecnologia
+- 🎯 Meu foco é aprender, praticar e evoluir com consistência.
+- 📚 Uso o GitHub para documentar minha jornada e criar um portfólio real da minha evolução na tecnologia.
 
 ---
 
-## 📌 O que você vai encontrar aqui
+## 🧰 Tecnologias que uso no dia a dia
 
-- Projetos simples e experimentais
-- Exercícios de cursos e estudos
-- Alguns projetos profissionais que desenvolvi 🛠️
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ---
 
-## 📫 Como falar comigo
+## 📌 O que você vai encontrar por aqui
 
-Você pode me encontrar por aqui:
-- ✉️ ezequieleduardosantos49@gmail.com
+- Projetos simples, experimentais e educacionais;
+- Exercícios de cursos e desafios de programação;
+- Alguns projetos profissionais e pessoais 🛠️
+
+---
+
+## 📫 Como entrar em contato
+
+- ✉️ E-mail: [ezequieleduardosantos49@gmail.com](mailto:ezequieleduardosantos49@gmail.com)
 
 ---
